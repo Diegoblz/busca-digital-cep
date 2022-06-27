@@ -1,0 +1,24 @@
+{
+    "name": "diego/dio-php",
+    "description": "busca de cep",
+    "license": "MIT",
+    "autoload": {
+        "psr-0" : {
+             "Search": "src/"
+        },
+        "psr-4": {
+            "Diego\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "diego",
+            "email": "diegobeleza@unimedportovelho.coop.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+
+    }
+
